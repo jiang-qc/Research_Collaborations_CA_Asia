@@ -1,1 +1,3 @@
 # Research_Collaborations_CA_Asia
+
+In this notebook we will query the OpenAlex API to investigate **Research Collaborations Between Scholars Based in Canada and Asia**
